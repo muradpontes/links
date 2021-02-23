@@ -1,0 +1,17 @@
+.form {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin: 0 auto; 
+    flex-direction: column;
+    }
+    
+.p {
+    margin-top: 10px;
+    }
+.btn {
+    background: #FFFFFF; 
+    align: middle; 
+    width: 300px; 
+    color: #000000; 
+    padding: 15px 20px}
