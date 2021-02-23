@@ -11,6 +11,9 @@
     }
 
 .btn {
+    -webkit-appearance: button; 
+    -moz-appearance: button; 
+    appearance: button;
     border-radius: 50px;
     background: #FFFFFF; 
     align: middle; 
